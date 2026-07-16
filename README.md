@@ -38,9 +38,9 @@ Enter trap is real).
 
 ## Multi-agent bonus
 
-If you run [Orca](https://orca.dev) or any terminal-cockpit workflow, the skill
+If you run [Orca](https://onorca.dev) or any terminal-cockpit workflow, the skill
 includes the dispatch recipe for using these launchers as parallel worker seats,
-plus a starter model-lane table for your `AGENTS.md`.
+plus a starter model-lane table for your `AGENTS.md`. For the full workflow bootstrap (Orca install, constitution, dispatch loop), see the companion skill: [claude-orca-workflow](https://github.com/Dallionking/claude-orca-workflow).
 
 ## Credits
 
